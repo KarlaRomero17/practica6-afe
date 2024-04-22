@@ -11,7 +11,7 @@
     <div class="container mt-5">
 
         <div class="d-flex justify-content-between">
-            <h2>Nueva Materia</h2>
+            <h2>Editar Materia</h2>
             <a href="/materia" class="btn btn-primary mb-3">Ver listado de Materias</a>
         </div>
         <div class="card p-3">
